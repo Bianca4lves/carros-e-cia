@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    font-family: Tahoma;
+}
+.secao {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+/*TOPO*/
+.topo {
+    width: 100%;
+    background-color: black;
+    border-bottom: 1px solid #d5960054;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: fixed;
+    top: 0;
+}
+.topo h1 {
+    color: #d59600;
+    font-size: 30px;
+}
+.topo p, a {
+    color:#d59600;
+    padding: 10px;
+    padding-top: 0px;
+    font-size: 18px;
+}
+
+/*IMAGEM*/
+.imagem img {
+    width: 100%;
+}
+
+/*CONTEUDO*/
+.conteudo h2 {
+    font-weight: normal;
+    padding: 0px;
+    font-size: 24px;
+}
+.conteudo h3 {
+    padding: 0px;
+    font-size: 28px;
+    margin-top: 30px;
+}
+.conteudo img {
+    padding: 0;
+    width: 450px;
+}
+.conteudo p {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 28px;
+    margin: 10px auto;
+    width: 980px;
+    padding-bottom: 80px;
+}
+.conteudo span {
+    color:#d59600;
+    font-weight: bold;
+}
+.conteudo .borda {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
